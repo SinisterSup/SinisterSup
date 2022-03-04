@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SinisterSup
 - 👀 I’m interested in Data Science and Machine learning Coding Projects
 - 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on Machine learning Projects
+- 👨🏻‍💻 I’m looking to collaborate on Machine learning Projects
 - 📫 YOU can reach me by my email mheist456@gmail.com
 
 <!---
