@@ -26,11 +26,10 @@ Ask me anything <a href="https://github.com/SinisterSup/SinisterSup/issues/new">
 - 👋 Hi, I’m @SinisterSup
 - 👀 I’m interested in Data Science and Machine learning Coding Projects
 - 👨🏻‍💻 Competitive Programming is the stuff for me 
-- <img src = "https://www.codewars.com/users/SinisterSup/badges/micro" >
 - 🌱 I’m currently learning Data Science
 - 👨🏻‍💻 I’m looking to collaborate on Machine learning Projects
 - 📫 YOU can reach me by my email supreethn2001@gmail.com
-
+<img src = "https://www.codewars.com/users/SinisterSup/badges/large" >
 <br>
 
 <h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Languages and Tools</h2>
