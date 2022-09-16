@@ -1,9 +1,82 @@
+
+![Profile views](https://visitor-badge.glitch.me/badge?page_id=Sinister-Doc.Sinister-Doc&left_text=MyProfileViews)
+[![Github](https://img.shields.io/github/followers/Sinister-Doc?label=Follow&style=social)](https://github.com/Sinister-Doc)
+
+<h2> About Me </h2>
+
+<img width="500" height="240" align="right" alt="Github" src="https://www.bitcoinbazis.hu/wp-content/uploads/2019/01/Github-aktivit%C3%A1s-blokkl%C3%A1nc.png" />
+
 - 👋 Hi, I’m @SinisterSup
 - 👀 I’m interested in Data Science and Machine learning Coding Projects
 - 👨🏻‍💻 Competitive Programming is the stuff for me 
 - 🌱 I’m currently learning Data Science
 - 👨🏻‍💻 I’m looking to collaborate on Machine learning Projects
 - 📫 YOU can reach me by my email supreethn2001@gmail.com
+
+<br>
+
+<h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Languages and Tools</h2>
+    
+<img align="left" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
+<img align="left" height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" />
+<img align="left" height="40" width="40" src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-java-programming-language-icon-by-vexels.png" />
+<img align="left" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" />
+<img align="left" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />
+<img align="left" height="40" width="40" src="https://www.chrisatmachine.com/icons/neovimN.png" />
+<img align="left" height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" />
+<img align="left" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" />    
+<img align="left" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" />
+<img align="left" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" />
+<img align="left" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" />
+<img align="left" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" />
+<img height="40" width="40" src="https://i.imgur.com/xTF9DUa.png" />
+
+<br/>
+
+<h3 align="left" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="40" height="30" style="margin-right: 10px;"> </h3>
+
+<p align="left">
+
+ <div align="left"  class="icons-social" style="margin-left: 10px;">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/supreeth-n-600991230/">
+		<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/SinisterSup">
+		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+	<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/SupreethN12">
+		<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
+	<a style="margin-left: 10px;" target="_blank" href="mailto:mheist456@gmail.com">
+		<img src="https://piunikaweb.com/wp-content/uploads/2021/08/Gmail-1.jpg" width="40"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://www.codewars.com/users/SinisterSup">
+		<img src="https://i.imgur.com/vpgdrae.png" width="40"></a>
+	<a style="margin-left: 10px;" target="_blank" href="https://www.hackerrank.com/SinisterDoc">
+		<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/480px-HackerRank_Icon-1000px.png" width="40"></a>
+	<a style="margin-left: 5px;" target="_blank" href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf">
+		<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
+      </div>
+
+</p>
+<br/>
+
+#
+
+<p align="center">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=SinisterSup&show_icons=true&theme=tokyonight&hide_border=true&layout=compact&count_private=true&include_all_commits=true"/>    
+    <img align="left" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SinisterSup&theme=tokyonight&layout=compact&hide_border=true" />
+</p>
+</details>
+<br/>     
+
+-----
+
+<summary><b>⚡ Recent GitHub Activity</b></summary>
+<br/>
+   <a href="https://github.com/SinisterSup"><img alt="SinisterSup's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SinisterSup&custom_title=SinisterSup's%20Contribution%20Graph&theme=react-dark" /></a>
+<br/>
+        
+   ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight&hide_border=true&layout=compact)
+
+mheist456@gmail.com
 
 <!---
 SinisterSup/SinisterSup is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
