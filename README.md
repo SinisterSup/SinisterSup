@@ -12,7 +12,7 @@
 
 You have finally discovered my Github profile. <br>
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
-Ask me anything <a href="https://github.com/ABSphreak/ABSphreak/issues/new"><b>here</b></a>
+Ask me anything <a href="https://github.com/SinisterSup/SinisterSup/issues/new"><b>here</b></a>
 <br>    
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=SinisterSup.SinisterSup&left_text=MyProfileViews)
 [![Github](https://img.shields.io/github/followers/SinisterSup?label=Follow&style=social)](https://github.com/SinisterSup)
