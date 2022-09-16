@@ -1,6 +1,23 @@
+<div align="center">
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+</div>
 
+<div align="center" width="50">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu+Sans+Mono&size=23&duration=2000&color=25C8F7&multiline=true&width=435&height=58&lines=Welcome+to;SinisterSup's+Github)](https://git.io/typing-svg)
+
+</div>
+
+<div align="center">
+
+You have finally discovered my Github profile. <br>
+Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
+Ask me anything <a href="https://github.com/ABSphreak/ABSphreak/issues/new"><b>here</b></a>
+<br>    
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=Sinister-Doc.Sinister-Doc&left_text=MyProfileViews)
 [![Github](https://img.shields.io/github/followers/Sinister-Doc?label=Follow&style=social)](https://github.com/Sinister-Doc)
+
+</div>
 
 <h2> About Me </h2>
 
@@ -66,15 +83,13 @@
 </p>
 </details>
 <br/>     
-
------
+        
+   ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight&hide_border=true&layout=compact)
 
 <summary><b>⚡ Recent GitHub Activity</b></summary>
 <br/>
    <a href="https://github.com/SinisterSup"><img alt="SinisterSup's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SinisterSup&custom_title=SinisterSup's%20Contribution%20Graph&theme=react-dark" /></a>
 <br/>
-        
-   ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight&hide_border=true&layout=compact)
 
 mheist456@gmail.com
 
