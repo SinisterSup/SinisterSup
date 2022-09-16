@@ -14,8 +14,8 @@ You have finally discovered my Github profile. <br>
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
 Ask me anything <a href="https://github.com/ABSphreak/ABSphreak/issues/new"><b>here</b></a>
 <br>    
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=Sinister-Doc.Sinister-Doc&left_text=MyProfileViews)
-[![Github](https://img.shields.io/github/followers/Sinister-Doc?label=Follow&style=social)](https://github.com/Sinister-Doc)
+![Profile views](https://visitor-badge.glitch.me/badge?page_id=SinisterSup.SinisterSup&left_text=MyProfileViews)
+[![Github](https://img.shields.io/github/followers/SinisterSup?label=Follow&style=social)](https://github.com/SinisterSup)
 
 </div>
 
@@ -92,6 +92,8 @@ Ask me anything <a href="https://github.com/ABSphreak/ABSphreak/issues/new"><b>h
 <br/>
 
 mheist456@gmail.com
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu+Sans+Mono&size=25&duration=4500&pause=200&color=2CCAF7&multiline=true&width=1000&height=66&lines=Always+code+as+if+the+person+who+ends+up+maintaining+your+code+;will+be+a+violent+psychopath+who+knows+where+you+live.+%F0%9F%98%82)](https://git.io/typing-svg)
 
 <!---
 SinisterSup/SinisterSup is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
