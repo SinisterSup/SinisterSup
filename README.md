@@ -68,7 +68,7 @@ Ask me anything <a href="https://github.com/SinisterSup/SinisterSup/issues/new">
 		<img src="https://i.imgur.com/vpgdrae.png" width="40"></a>
 	<a style="margin-left: 10px;" target="_blank" href="https://www.hackerrank.com/SinisterDoc">
 		<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/480px-HackerRank_Icon-1000px.png" width="40"></a>
-	<a style="margin-left: 5px;" target="_blank" href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf">
+	<a style="margin-left: 5px;" target="_blank" href="https://github.com/SinisterSup/Me.io/blob/main/Supreeth%20N.pdf">
 		<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
       </div>
 
