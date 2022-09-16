@@ -85,10 +85,7 @@ Ask me anything <a href="https://github.com/SinisterSup/SinisterSup/issues/new">
 <br/>     
         
    ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight&hide_border=true&layout=compact)
-
-# 
-
-<summary><b>⚡ Recent GitHub Activity</b></summary>
+      
 <br/>
    <a href="https://github.com/SinisterSup"><img alt="SinisterSup's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SinisterSup&custom_title=SinisterSup's%20Contribution%20Graph&theme=react-dark" /></a>
 <br/>
