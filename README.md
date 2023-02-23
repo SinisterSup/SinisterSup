@@ -38,20 +38,38 @@ Ask me anything <a href="https://github.com/SinisterSup/SinisterSup/issues/new">
 
 <h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Languages and Tools</h2>
     
-<img align="left" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
-<img align="left" height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" />
-<img align="left" height="40" width="40" src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-java-programming-language-icon-by-vexels.png" />
-<img align="left" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" />
-<img align="left" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />
-<img align="left" height="40" width="40" src="https://www.chrisatmachine.com/icons/neovimN.png" />
-<img align="left" height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" />
-<img align="left" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" />    
-<img align="left" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" />
-<img align="left" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" />
-<img align="left" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" />
-<img align="left" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" />
-<img height="40" width="40" src="https://i.imgur.com/xTF9DUa.png" />
+<a href="https://www.python.org/">
+	<img align="left" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" /></a>
+<a href="https://go.dev/">
+	<img align="left" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+	<img align="left" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" /></a>
+<a href="https://devdocs.io/c/">
+	 <img align="left" height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" /></a>
+<a href="https://docs.oracle.com/en/java/">
+	<img align="left" height="40" width="40" src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-java-programming-language-icon-by-vexels.png" /></a>
+<a href="https://dev.mysql.com/doc/">
+	<img align="left" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" /></a>
+<a href="https://git-scm.com/doc">
+	<img align="left" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" /></a>
+<a href="https://neovim.io/">
+	<img align="left" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Neovim-mark.svg/1200px-Neovim-mark.svg.png" /></a>
+<a href="https://code.visualstudio.com/">
+	<img align="left" height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></a>
+<a href="https://jupyter.org/">
+	<img align="left" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" /></a>
+<a href="https://www.tensorflow.org/">
+	<img align="left" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" /></a>
+<a href="https://www.mongodb.com/">
+	<img align="left" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" /></a>
+<a href="https://flask.palletsprojects.com/en/2.2.x/">
+	<img align="left" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" /></a>
+<a href="https://www.ruby-lang.org/en/">
+	<img align="left" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" /></a>
+<a href="https://www.debian.org/">
+	<img align="left" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" /></a>
+<a href="https://www.kali.org/">
+	<img height="40" width="40" src="https://i.imgur.com/xTF9DUa.png" /></a>
 
 <br/>
 
@@ -72,6 +90,8 @@ Ask me anything <a href="https://github.com/SinisterSup/SinisterSup/issues/new">
 		<img src="https://i.imgur.com/vpgdrae.png" width="40"></a>
 	<a style="margin-left: 10px;" target="_blank" href="https://www.hackerrank.com/SinisterDoc">
 		<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/480px-HackerRank_Icon-1000px.png" width="40"></a>
+ 	<a style="margin-left: 10px;" target="_blank" href="https://leetcode.com/sinistersup2001/">
+		<img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" width="40"></a>
 	<a style="margin-left: 5px;" target="_blank" href="https://github.com/SinisterSup/Me.io/blob/main/Supreeth%20N.pdf">
 		<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
       </div>
