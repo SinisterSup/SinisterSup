@@ -62,14 +62,14 @@ Ask me anything <a href="https://github.com/SinisterSup/SinisterSup/issues/new">
 	<img align="left" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" /></a>
 <a href="https://www.mongodb.com/">
 	<img align="left" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" /></a>
-<a href="https://flask.palletsprojects.com/en/2.2.x/">
-	<img align="left" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" /></a>
+<!-- <a href="https://flask.palletsprojects.com/en/2.2.x/">
+	<img align="left" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" /></a> -->
 <a href="https://www.ruby-lang.org/en/">
 	<img align="left" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" /></a>
 <a href="https://www.debian.org/">
 	<img align="left" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" /></a>
-<a href="https://www.kali.org/">
-	<img height="40" width="40" src="https://i.imgur.com/xTF9DUa.png" /></a>
+<!-- <a href="https://www.kali.org/">
+	<img height="40" width="40" src="https://i.imgur.com/xTF9DUa.png" /></a> -->
 <br><br/>
 <br/>     
 
