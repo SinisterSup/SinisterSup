@@ -72,10 +72,8 @@ Ask me anything <a href="https://github.com/SinisterSup/SinisterSup/issues/new">
 	<img height="40" width="40" src="https://i.imgur.com/xTF9DUa.png" /></a>
 
 <br/>     
+<br><br/>
 
-      
-      
-    
 
 <h3 align="left" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="40" height="30" style="margin-right: 10px;"> </h3>
 
