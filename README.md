@@ -53,7 +53,7 @@ Ask me anything <a href="https://github.com/SinisterSup/SinisterSup/issues/new">
 <a href="https://git-scm.com/doc">
 	<img align="left" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" /></a>
 <a href="https://neovim.io/">
-	<img align="left" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Neovim-mark.svg/1200px-Neovim-mark.svg.png" /></a>
+	<img align="left" height="40" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Neovim-mark.svg/1200px-Neovim-mark.svg.png" /></a>
 <a href="https://code.visualstudio.com/">
 	<img align="left" height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></a>
 <a href="https://jupyter.org/">
@@ -95,7 +95,7 @@ Ask me anything <a href="https://github.com/SinisterSup/SinisterSup/issues/new">
  	<a style="margin-left: 10px;" target="_blank" href="https://leetcode.com/sinistersup2001/">
 		<img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" width="40"></a>
 	<a style="margin-left: 5px;" target="_blank" href="https://github.com/SinisterSup/Me.io/blob/main/Supreeth%20N.pdf">
-		<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
+		<img height="40" width="40" src="https://disdik.naganrayakab.go.id/storage/app/uploads/public/5e5/e88/c95/5e5e88c95b855913587159.png" ></a>
       </div>
 
 </p>
