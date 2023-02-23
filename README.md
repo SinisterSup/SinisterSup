@@ -43,7 +43,7 @@ Ask me anything <a href="https://github.com/SinisterSup/SinisterSup/issues/new">
 <a href="https://go.dev/">
 	<img align="left" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-	<img align="left" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" /></a>
+	<img align="left" height="37" width="37" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" /></a>
 <a href="https://devdocs.io/c/">
 	 <img align="left" height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" /></a>
 <a href="https://docs.oracle.com/en/java/">
@@ -65,7 +65,7 @@ Ask me anything <a href="https://github.com/SinisterSup/SinisterSup/issues/new">
 <!-- <a href="https://flask.palletsprojects.com/en/2.2.x/">
 	<img align="left" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" /></a> -->
 <a href="https://www.ruby-lang.org/en/">
-	<img align="left" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" /></a>
+	<img align="left" height="35" width="35" src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" /></a>
 <a href="https://www.debian.org/">
 	<img align="left" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" /></a>
 <!-- <a href="https://www.kali.org/">
