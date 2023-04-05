@@ -26,9 +26,11 @@ Ask me anything <a href="https://github.com/SinisterSup/SinisterSup/issues/new">
 - 👋 Hi, I’m @SinisterSup
 - 👀 I’m interested in Data Science and Machine learning Coding Projects
 - 👨🏻‍💻 Competitive Programming is the stuff for me 
-- 🌱 I’m currently learning Data Science
-- 👨🏻‍💻 I’m looking to collaborate on Machine learning Projects
+- 🌱 I’m currently learning Docker and Kubernetes
+- 👨🏻‍💻 I’m looking to collaborate on Backend Golang Projects
 - 📫 YOU can reach me by my email supreethn2001@gmail.com
+- 🦀<img height="14" width="20" src="https://user-images.githubusercontent.com/98250264/230168045-400e0d7f-4309-4bd5-9f74-94f6f34e6a2e.png" /> Learning and Loving Rust
+- <img align="left" height="55" width="50" src="https://user-images.githubusercontent.com/98250264/230170839-025874a1-b3dd-4b39-8dfc-0092dedfaedc.png" />
 
 <a href="https://www.codewars.com/users/SinisterSup">
     <img src = "https://www.codewars.com/users/SinisterSup/badges/large" >
