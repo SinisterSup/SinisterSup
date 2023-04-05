@@ -21,10 +21,10 @@ Ask me anything <a href="https://github.com/SinisterSup/SinisterSup/issues/new">
 
 <h2> About Me </h2>
 
-<img width="500" height="240" align="right" alt="Github" src="https://www.bitcoinbazis.hu/wp-content/uploads/2019/01/Github-aktivit%C3%A1s-blokkl%C3%A1nc.png" />
+<img width="450" height="240" align="right" alt="Github" src="https://www.bitcoinbazis.hu/wp-content/uploads/2019/01/Github-aktivit%C3%A1s-blokkl%C3%A1nc.png" />
 
 - 👋 Hi, I’m @SinisterSup
-- 👀 I’m interested in Data Science and Machine learning Coding Projects
+- 👀 I’m interested in Machine learning Coding Projects
 - 👨🏻‍💻 Competitive Programming is the stuff for me 
 - 🌱 I’m currently learning Docker and Kubernetes
 - 👨🏻‍💻 I’m looking to collaborate on Backend Golang Projects
