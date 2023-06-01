@@ -106,10 +106,9 @@ Ask me anything <a href="https://github.com/SinisterSup/SinisterSup/issues/new">
 
 #
 
-<p align="center">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=SinisterSup&show_icons=true&theme=tokyonight&hide_border=true&layout=compact&count_private=true&include_all_commits=true"/>    
-    <img align="left" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SinisterSup&theme=tokyonight&layout=compact&hide_border=true" />
-</p>
+![SinisterSup's GitHub stats](https://github-readme-stats.vercel.app/api?username=SinisterSup&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=SinisterSup&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&layout=compact)
+
 <p align="right">
 	<img align="right" src="https://leetcard.jacoblin.cool/sinistersup2001?theme=dark&show_rank=false" width="350px"/>
 </p>
@@ -130,3 +129,5 @@ mheist456@gmail.com
 SinisterSup/SinisterSup is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
